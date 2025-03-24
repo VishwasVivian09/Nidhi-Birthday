@@ -24,7 +24,7 @@ export default function BirthdayPage() {
   const birthdayMessages = [
     "Happy Birthday to my most dearest NIDHI, my go-to person when i need someone always been there for me and listens to everything I say without judging. Always brightens up my mood with your smile like the one in the picture.",
     "Yavaglu ide tara iru childu always be happy whatever happens... happens for a reason and nam hudgi anta olle hudgi ge yavaglu ollede agodu I know.. So never be sad and if you are you know whom to talk to.",
-    "I still see you like the girl you are in this image neen nange anta click madi kalsid first picture you were and you are and you will always be a special person in my life NIDHI.",
+    "I still see you like the girl you are in this image neen nange anta click madi kalsid first picture you were and you are and you will always be the most important and special person in my life NIDHI.",
     "See how much you have changed adre one thing remains constant that childish behaviour which is the most attractive thing I like about you... Always be happy and Always have that big bright smile on your face.",
   ]
 
